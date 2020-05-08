@@ -2,7 +2,7 @@
 
 Final Project Quantified Cognition: Option 0
 
-The Notebook is titled "Option 0 QC" --> can view the output within the Notebook format, but I 
+The Notebook is titled "Option 0 QC" --> you can view the output within the Notebook format, but I 
 definitely recommend opening with Colab.
 
 The two CSV files must be downloaded to the user's device, to be able to import the data into the code as directed within. 
